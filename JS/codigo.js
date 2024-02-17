@@ -1,0 +1,1 @@
+let lucas = prompt("decime tu nombre")
